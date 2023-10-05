@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently working in Accenture<br>⚡ I’m currently working on Shopping website<br>💬 Ask me about Angular<br>
+🔭 Currently working in Accenture<br>⚡ I’m currently working on e-commerce website<br>💬 Ask me about Angular<br>
 
 
 ## 🌐 Socials:
